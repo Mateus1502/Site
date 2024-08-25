@@ -1,0 +1,196 @@
+#secao{
+    display: flex;
+}
+h1 {
+    text-align: center;
+}
+#cassio-box {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#cassio-box img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+#cassio-box p {
+    margin: 0 0 10px 0;
+}
+#cassio-box ul {
+    width: 100%;
+    padding-left: 20px; 
+    list-style-type: disc;
+    margin: 0;
+}
+#Chicao-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+
+}
+#Chicao-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+#pauloandre-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#pauloandre-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#alessandro-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#alessandro-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#fabiosantos-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#fabiosantos-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#ralf-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#ralf-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#paulinho-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#paulinho-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#jorgehenrique-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#jorgehenrique-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#danilo-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#danilo-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#emerson-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#emerson-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#guerrero-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#guerrero-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
+#tite-box{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 800px;
+    padding: 10px; 
+    border: 2px solid #000; 
+    background-color: whitesmoke; 
+    margin: 0 auto;
+}
+#tite-box img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px; 
+}
